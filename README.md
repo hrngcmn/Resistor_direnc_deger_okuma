@@ -1,5 +1,5 @@
 ﻿# DİRENÇ OKUMA
-Python programlama kullanarak direnç renk kodlarına göre, direnç değeri okuma işlemi gerçekleştirilmiştir. Direnç renk kodları kullanıcıya sorulur ve direnç değerini hesaplar. Read me kısmında detaylı açıklamayı bulabilirsiniz. 
+Python programlama kullanarak direnç renk kodlarına göre, direnç değeri okuma işlemi gerçekleştirilmiştir. Direnç renk kodları kullanıcıya sorulur ve direnç değerini hesaplar. 
 
 ![enter image description here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0d_ELGc1jIWhK-WR_qqSKmJxCeh-1ncv3eA&usqp=CAU)
 # Bilgilendirme : 
